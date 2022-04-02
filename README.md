@@ -30,5 +30,5 @@
  	 <a href="https://discord.com/invite/Lohane#7187" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lohanedafnevieira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/lohane-vieira-9b7514212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+  ![Snake animation](https://github.com/Bluizpro/Bluizpro/blob/output/github-contribution-grid-snake.svg)
 </div>
