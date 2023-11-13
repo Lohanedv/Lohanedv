@@ -1,4 +1,4 @@
-## Lohane Dafne Vieira
+## Lohane Dafne Borges
 
 - 🔭 Desenvolvedora Full Stack Jr
 - 🌱 Aprendendo C#, Java, HTML, CSS, Bootstrap, React ...
